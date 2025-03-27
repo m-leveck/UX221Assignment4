@@ -1,0 +1,5 @@
+[27-Mar-2025 00:31:14 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/UX221Assignment4/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
+[27-Mar-2025 00:31:57 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/UX221Assignment4/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
+[27-Mar-2025 00:32:43 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/UX221Assignment4/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
+[27-Mar-2025 00:56:54 UTC] PHP Fatal error:  Out of memory (allocated 35651584) (tried to allocate 2097152 bytes) in /workspaces/UX221Assignment4/.wordpress/wp-content/plugins/ecommerce-product-catalog/ext-comp/index.php on line 50
+[27-Mar-2025 00:56:59 UTC] PHP Fatal error:  Out of memory (allocated 33554432) (tried to allocate 2097152 bytes) in /workspaces/UX221Assignment4/.wordpress/wp-content/plugins/ecommerce-product-catalog/ext-comp/index.php on line 50

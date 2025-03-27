@@ -32,7 +32,47 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/sample-page/
+            http://localhost:8000/about/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/contact/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/sample-product-page/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/oil-pastels/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/polymer-clay/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/paintbrushes/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/watercolour/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/beads/
         </loc>
     </url>
     <url>
